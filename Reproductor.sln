@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reproductor", "Reproductor\Reproductor.csproj", "{4B6E8C68-0B79-4BE5-9245-8FC086752A70}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador Reproductor", "Instalador Reproductor\Instalador Reproductor.vdproj", "{B0115688-1D0B-4393-8FBB-65F0096E48BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B6E8C68-0B79-4BE5-9245-8FC086752A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6E8C68-0B79-4BE5-9245-8FC086752A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6E8C68-0B79-4BE5-9245-8FC086752A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6E8C68-0B79-4BE5-9245-8FC086752A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0115688-1D0B-4393-8FBB-65F0096E48BB}.Debug|Any CPU.ActiveCfg = Debug
+		{B0115688-1D0B-4393-8FBB-65F0096E48BB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DC4E000-C554-44C4-8406-F80B837AE232}
+	EndGlobalSection
+EndGlobal
